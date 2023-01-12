@@ -29,6 +29,7 @@ This application provides several configuration options, as below:
 - **playerPort**: The port of the Plexamp player _(number)_
 - **pauseOnCardRemoval**: Whether to automatically pause playback when the NFC card is removed from the reader _(boolean)_
 - **resumeOnCardPlacement**: Attempt to resume playback when the most recently played NFC tag is re-placed on the reader _(boolean)_
+- **trackCardState**: Check for album and artist tags and monitor player state to only pause and resume if the tag still matches _(boolean)_
 
 ## Usage
 
