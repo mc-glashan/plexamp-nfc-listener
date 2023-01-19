@@ -12,10 +12,10 @@
 		"format": "prettier --write ."
 	},
 	"dependencies": {
+		"eventsource": "^2.0.2",
 		"nfc-pcsc": "^0.8.1",
 		"nfccard-tool": "^0.1.1",
-		"node-fetch": "^3.3.0",
-		"eventsource": "^2.0.2"
+		"node-fetch": "^3.3.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.20.7",
